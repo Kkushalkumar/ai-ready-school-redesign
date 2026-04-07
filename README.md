@@ -1,5 +1,8 @@
 # AI Ready School Homepage Redesign
 
+# Vercel Live Link
+"https://ai-ready-school-redesign-git-main-kkushalkumars-projects.vercel.app/"
+
 ## Problems Identified
 1. Overwhelming navigation and too many choices.
 2. Hero section lacked clarity and immediate value.
